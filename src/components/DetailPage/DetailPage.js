@@ -46,7 +46,6 @@ class DetailPage extends Component {
       return <img key="" src={data.image_url} alt=""/>
     })
 
-    console.log(this.props)
     return (
       <div className="DetailPage">
         <NavBar />

@@ -8,74 +8,15 @@
   bottom: 0;
   padding: 0;
 
-  .minus {
-    width: 50px;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    background-color: white;
-    border: 1px solid rgb(227, 229, 232);
-
-    .disabled {
-      background-image: url("https://t1.kakaocdn.net/friends/new_store/2.0/common/product-detail-button-dec-off.svg");
-      width: 11px;
-      height: 2px;
-    }
-
-    .abled {
-      background-image: url("https://t1.kakaocdn.net/friends/new_store/2.0/common/product-detail-button-dec-on.svg");
-      width: 11px;
-      height: 2px;
-    }
+  .disabled {
+    background-image: url("https://t1.kakaocdn.net/friends/new_store/2.0/common/product-detail-button-dec-off.svg");
+    width: 11px;
+    height: 2px;
   }
 
-  .itemCount {
-    width: 240px;
-    background-color: white;
-    border: none;
-    border-top: 1px solid rgb(227, 229, 232);
-    font-weight: bold;
-  }
-
-  .allCost {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    width: 380px;
-    padding: 0 20px;
-    background-color: white;
-    border-top: 1px solid rgb(227, 229, 232);
-
-    .itemCost {
-      font-size: 13px;
-      font-weight: bold;
-      color: #9a9a9e;
-    }
-
-    .cost {
-      font-size: 15px;
-      font-weight: bold;
-    }
-  }
-
-  .buyButton {
-    display: flex;
-    justify-content: space-between;
-    .bucket {
-      width: 55px;
-      height: 51px;
-      background-color: rgb(60, 64, 75);
-      border: 1px solid rgb(60, 64, 75);
-      border-right: 1px solid rgba(255, 255, 255, 0.1);
-    }
-
-    .goRight {
-      width: 305px;
-      background-color: rgb(60, 64, 75);
-      border: 1px solid rgb(60, 64, 75);
-      color: white;
-      font-size: 15px;
-      font-weight: bold;
-    }
+  .abled {
+    background-image: url("https://t1.kakaocdn.net/friends/new_store/2.0/common/product-detail-button-dec-on.svg");
+    width: 11px;
+    height: 2px;
   }
 }
