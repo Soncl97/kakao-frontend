@@ -21,4 +21,4 @@ React.js, SASS
 * 상단의 메뉴 클릭시 해당 컴포넌트로 바뀌는 기능
 * react router를 이용한 페이지 이동 기능
 * 라이브러리로 배너 슬라이드 구현
-* api로 data fetch
+* 백엔드 api
