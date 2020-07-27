@@ -22,3 +22,5 @@ React.js, SASS
 * react router를 이용한 페이지 이동 기능
 * 라이브러리로 배너 슬라이드 구현
 * 백엔드 api
+* Git merge로 conflict 해결
+* 트렐로로 서로간의 업무 파악 및 Scrum방식으로 프로젝트 진행
