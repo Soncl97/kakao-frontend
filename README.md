@@ -10,7 +10,7 @@
 
 
 ## Tech
-React.js, SASS
+React.js, SASS, Javascript, html
 
 
 ## Features
